@@ -3,7 +3,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
-using DatingApp.API.Controllers.Dtos;
+using DatingApp.API.Dtos;
 using DatingApp.API.Data;
 using DatingApp.API.Models;
 using Microsoft.AspNetCore.Mvc;
