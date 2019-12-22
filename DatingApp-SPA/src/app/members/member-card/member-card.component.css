@@ -16,6 +16,10 @@
     position: relative;
 }
 
+.card-body {
+    cursor: pointer;
+}
+
 .member-icons {
     position: absolute;
     bottom: -30%;
